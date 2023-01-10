@@ -1,2 +1,4 @@
 pyjstat
 pandas
+openpyxl
+matplotlib
